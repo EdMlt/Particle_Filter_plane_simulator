@@ -5,6 +5,10 @@ Base of program allowing to create particles to localise the plane
 
 ![Plane Simulator](https://github.com/jacques-saraydaryan/particules_filter_plane_simulator_student/blob/master/img/PlaneSimulator-v2.png "Application of particule filter for localising plane position")
 
+## TP réalisé par Edoaurd MALLECOURT et Jean-Baptiste PORRET
+
+
+
 ## Requirement
 ### Create Virtual Env (python3)
 - Create a virtual env at the repository root
